@@ -68,7 +68,7 @@ Average profit was positive at discount levels up to 20%, while discount levels 
 
 \- Investigate the factors contributing to the West region's stronger sales performance and identify opportunities to improve sales performance in the South region.
 
-\- Monitor top-selling products to understand their contribution to overall sales performance.
+\- Monitor top-selling products to understand their contribution to overall sales and identify opportunities to improve product performance.
 
 \- Review the Furniture category to identify potential opportunities to improve its low total profit and profit margin.
 
