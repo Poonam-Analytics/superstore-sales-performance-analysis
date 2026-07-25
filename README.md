@@ -16,7 +16,7 @@ This project analyzes sales performance using the Sample Superstore dataset. SQL
 
 \- \*\*SQL\*\* — Data analysis and answering business questions
 
-\- \*\*Python\*\* — Data visualization
+\- \*\*Python\*\* — Data analysis and visualization
 
 \- \*\*Pandas\*\* — Data manipulation and analysis
 
