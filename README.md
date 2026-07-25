@@ -102,7 +102,7 @@ Sales Performance Analysis/
 
 ├── data/
 
-│   └── Sample - Superstore.csv
+│   └── Sample - Superstore.xls
 
 │
 
