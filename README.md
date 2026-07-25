@@ -68,7 +68,7 @@ This project analyzes sales performance using the Sample Superstore dataset. SQL
 
 \- \*\*Top-Selling Product:\*\* The Canon imageCLASS 2200 Advanced Copier was the top-selling product by total sales.
 
-\- \*\*Category Profitability:\*\* Technology generated the highest total profit and profit margin, while Furniture had the lowest total profit and profit margin.
+\- \*\*Category Profitability:\*\* Technology generated the highest total profit and profit margin, while Furniture generated the lowest total profit and profit margin.
 
 \- \*\*Monthly Sales:\*\* Sales fluctuated throughout the period analyzed, with the highest monthly sales occurring in November 2017.
 
